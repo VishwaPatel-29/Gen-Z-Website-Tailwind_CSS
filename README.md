@@ -1,12 +1,5 @@
 # 🚀 Gen-Z Website - Modern React App
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-4.2.1-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Vite-7.3.1-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Router_DOM-7.13.1-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router">
-</div>
-
 ## 📖 About
 
 A cutting-edge, modern website designed specifically for Gen-Z audiences! This project showcases the latest web development technologies with a sleek, responsive design that captures the vibrant and dynamic spirit of Generation Z.
@@ -61,7 +54,7 @@ Gen-Z Website/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Gen-Z-Website-Tailwind_CSS.git
+   git clone https://github.com/VishwaPatel-29/Gen-Z-Website-Tailwind_CSS.git
    cd Gen-Z-Website-Tailwind_CSS/Gen-Z
    ```
 

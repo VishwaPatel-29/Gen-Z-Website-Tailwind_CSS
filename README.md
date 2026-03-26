@@ -1,19 +1,52 @@
 # 🚀 Gen-Z Website - Modern React App
 
-## 📖 About
+<p align="center">
+  <a href="https://github.com/VishwaPatel-29/Gen-Z-Website-Tailwind_CSS">
+    <img src="https://img.shields.io/badge/React-19.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
+  </a>
+  <a href="https://github.com/VishwaPatel-29/Gen-Z-Website-Tailwind_CSS">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-4.2.1-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+  </a>
+  <a href="https://github.com/VishwaPatel-29/Gen-Z-Website-Tailwind_CSS">
+    <img src="https://img.shields.io/badge/Vite-7.3.1-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  </a>
+  <a href="https://github.com/VishwaPatel-29/Gen-Z-Website-Tailwind_CSS">
+    <img src="https://img.shields.io/badge/Router_DOM-7.13.1-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" alt="React Router">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/VishwaPatel-29/Gen-Z-Website-Tailwind_CSS?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/stars/VishwaPatel-29/Gen-Z-Website-Tailwind_CSS?style=for-the-badge" alt="Stars">
+  <img src="https://img.shields.io/github/forks/VishwaPatel-29/Gen-Z-Website-Tailwind_CSS?style=for-the-badge" alt="Forks">
+  <img src="https://img.shields.io/github/issues/VishwaPatel-29/Gen-Z-Website-Tailwind_CSS?style=for-the-badge" alt="Issues">
+</p>
+
+## About
 
 A cutting-edge, modern website designed specifically for Gen-Z audiences! This project showcases the latest web development technologies with a sleek, responsive design that captures the vibrant and dynamic spirit of Generation Z.
 
-### ✨ Key Features
+### Key Features
 
-- 🎨 **Modern UI/UX Design** - Built with Tailwind CSS for stunning, responsive layouts
-- ⚡ **Lightning Fast** - Powered by Vite for instant development and optimized builds
-- 🔄 **Single Page Application** - Smooth navigation with React Router DOM
-- 🎵 **Interactive Elements** - Floating audio player and dynamic components
-- 📱 **Mobile First** - Fully responsive design that works perfectly on all devices
-- 🎯 **Gen-Z Focused** - Trendy design aesthetics and user experience
+ 🎨 **Modern UI/UX Design**  
+Built with Tailwind CSS for stunning, responsive layouts that adapt perfectly to any screen size.
 
-## 🛠️ Tech Stack
+⚡ **Lightning Fast Performance**  
+Powered by Vite for instant development and optimized builds that load in milliseconds.
+
+ 🔄 **Single Page Application**  
+Smooth navigation with React Router DOM - no page reloads, just seamless transitions.
+
+🎵 **Interactive Elements**  
+Floating audio player and dynamic components that bring the website to life.
+
+📱 **Mobile First Approach**  
+Fully responsive design that works flawlessly on all devices, from phones to desktops.
+
+🎯 **Gen-Z Focused Design**  
+Trendy aesthetics, vibrant colors, and user experience that speaks to the Gen-Z generation.
+
+## Tech Stack
 
 | Technology | Version | Description |
 |------------|---------|-------------|
@@ -24,29 +57,43 @@ A cutting-edge, modern website designed specifically for Gen-Z audiences! This p
 | **React Icons** | 5.6.0 | Popular icon library for React projects |
 | **ESLint** | 9.39.1 | Code quality and linting tool |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Gen-Z Website/
-├── 📂 Gen-Z/
-│   ├── 📂 src/
-│   │   ├── 📂 components/     # Reusable React components
-│   │   ├── 📂 pages/         # Page components (Home, About, Career, Support)
-│   │   ├── 📂 assets/        # Static assets (images, fonts)
-│   │   ├── 📄 App.jsx        # Main application component
-│   │   ├── 📄 main.jsx       # Application entry point
-│   │   └── 📄 index.css      # Global styles
-│   ├── 📂 public/            # Public assets
-│   ├── 📄 index.html         # HTML template
-│   ├── 📄 package.json       # Dependencies and scripts
-│   └── 📄 vite.config.js     # Vite configuration
-└── 📄 README.md              # This file
+├── Gen-Z/
+│   ├── src/
+│   │   ├── components/     # Reusable React components
+│   │   ├── pages/         # Page components (Home, About, Career, Support)
+│   │   ├── assets/        # Static assets (images, fonts)
+│   │   ├── App.jsx        # Main application component
+│   │   ├── main.jsx       # Application entry point
+│   │   └── index.css      # Global styles
+│   ├── public/            # Public assets
+│   ├── index.html         # HTML template
+│   ├── package.json       # Dependencies and scripts
+│   └── vite.config.js     # Vite configuration
+└── README.md              # This file
+│   ├── src/
+│   │   ├── components/     # Reusable React components
+│   │   ├── pages/         # Page components (Home, About, Career, Support)
+│   │   ├── assets/        # Static assets (images, fonts)
+│   │   ├── App.jsx        # Main application component
+│   │   ├── main.jsx       # Application entry point
+│   │   └── index.css      # Global styles
+│   ├── public/            # Public assets
+│   ├── index.html         # HTML template
+│   ├── package.json       # Dependencies and scripts
+│   └── vite.config.js     # Vite configuration
+└── README.md              # This file
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
+- **Node.js** (v18 or higher)
+- **npm** or **yarn** package manager
 - 📦 **Node.js** (v18 or higher)
 - 🧶 **npm** or **yarn** package manager
 

@@ -212,11 +212,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 👨‍💻 Author
+
+**Vishwa Patel**
+
+---
+
 <div align="center">
   <p>💖 Made with passion for the Gen-Z generation 💖</p>
   <p>⭐ If you like this project, give it a star! ⭐</p>
 </div>
-
-## 👨‍💻 Author
-
-**Vishwa Patel**

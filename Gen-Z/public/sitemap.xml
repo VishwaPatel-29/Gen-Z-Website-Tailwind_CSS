@@ -1,0 +1,29 @@
+<urlset xmls="https://gen-zreactwebsite.netlify.app/">
+
+    <url>
+        <loc>http://gen-zreactwebsite.netlify.app/</loc>
+        <lastmod>2026-03-30</lastmod>
+        <changefreq>Weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://gen-zreactwebsite.netlify.app/about</loc>
+        <lastmod>2026-03-30</lastmod>
+        <changefreq>Weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <url>
+        <loc>https://gen-zreactwebsite.netlify.app/carrer</loc>
+        <lastmod>2026-03-30</lastmod>
+        <changefreq>Weekly</changefreq>
+        <priority>0.6</priority>
+    </url>
+
+    <url>
+        <loc>https://gen-zreactwebsite.netlify.app/support</loc>
+        <lastmod>2026-03-30</lastmod>
+        <changefreq>Weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
